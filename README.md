@@ -11,46 +11,44 @@
 
 ---
 
-## Rapidly Build, Launch & Scale Your SaaS
+## Rapidly Build, Launch & Scale Your SaaS 🚀
 
 ---
 
 The key features are:
 
  **Sales**
-
-🚀 **High Converting Checkout Pages**
-🚀 **High Converting Landing Pages**
-🚀 **Subscriptions**
-🚀 **One-Time Charges**
-🚀 **Upsells & Down-sells**
-🚀 **Abandoned Cart Recovery**
-
+- **High Converting Checkout Pages 🚀**
+- **High Converting Landing Pages 🚀**
+- **Subscriptions 🚀**
+- **One-Time Charges 🚀**
+- **Upsells & Down-sells 🚀**
+- **Abandoned Cart Recovery 🚀**
 
 <br>
 
 **Administration**
 
-🚀 **Advanced Admin Dashboard**
-🚀 **Strong Financial Reporting**
-🚀 **Built-in CRM**
-🚀 **Newsletters**
-🚀 **Campaigns**
-🚀 **Automations**
-🚀 **User Management**
-🚀 **User Impersonation**
-🚀 **Security & Permissions**
+- **Advanced Admin Dashboard 🚀**
+- **Strong Financial Reporting 🚀**
+- **Built-in CRM 🚀**
+- **Newsletters 🚀**
+- **Campaigns 🚀**
+- **Automations 🚀**
+- **User Management 🚀**
+- **User Impersonation 🚀**
+- **Security & Permissions 🚀**
 
 <br>
 
 **Customer Experience**
 
-🚀 **Elegant Dashboard**
-🚀 **React Native IOS/Andorid APP**
-🚀 **Teams**
-🚀 **Social Logins**
-🚀 **2FA**
-🚀 **API**
+- **Elegant Dashboard 🚀**
+- **React Native IOS/Andorid APP 🚀**
+- **Teams 🚀**
+- **Social Logins 🚀**
+- **2FA 🚀**
+- **API 🚀**
 
 ---
 
