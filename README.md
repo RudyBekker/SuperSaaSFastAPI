@@ -11,13 +11,14 @@
 
 ---
 
-##Rapidly Build, Launch & Scale Your SaaS
+## Rapidly Build, Launch & Scale Your SaaS
 
 ---
 
 The key features are:
 
-- **Sales**
+ **Sales**
+
 🚀 **High Converting Checkout Pages**
 🚀 **High Converting Landing Pages**
 🚀 **Subscriptions**
@@ -28,7 +29,8 @@ The key features are:
 
 <br>
 
-- **Administration**
+**Administration**
+
 🚀 **Advanced Admin Dashboard**
 🚀 **Strong Financial Reporting**
 🚀 **Built-in CRM**
@@ -41,7 +43,8 @@ The key features are:
 
 <br>
 
-- **Customer Experience**
+**Customer Experience**
+
 🚀 **Elegant Dashboard**
 🚀 **React Native IOS/Andorid APP**
 🚀 **Teams**
@@ -51,7 +54,7 @@ The key features are:
 
 ---
 
-##Why FastAPI?
+## Why FastAPI?
 
 ---
 
