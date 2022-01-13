@@ -4,8 +4,13 @@
 <p align="center">
     <em>Python SaaS Boilerplate for building Software-as-Service (SAAS) apps with FastAPI, Vue.js & Tailwind</em>
 </p>
+
+----
 <p align="center">
-⚒ Currently being built ⚒
+  🚨 ATTENTION: This Project is currently under development..🚨
+<br> 
+<br>
+Feel free to follow along on our journey while we build the most robust / SuperCharged SaaS boilerplate this world has ever seen 😇 🎉
 </p>
 
 
